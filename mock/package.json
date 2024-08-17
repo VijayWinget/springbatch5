@@ -1,0 +1,14 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "sample endpoint with mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
